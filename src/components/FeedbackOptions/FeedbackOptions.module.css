@@ -1,0 +1,15 @@
+.FeedbackOptions {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.FeedbackOptions button {
+  padding: 5px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.FeedbackOptions button:hover {
+  background-color: bisque;
+}
